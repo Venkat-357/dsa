@@ -27,5 +27,30 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "files.associations": {
+    "DOUBLY.C": "cpp",
+    "DOUBLYLINKEDLIST.C": "cpp",
+    "ELEINSERTIONINARRAY.C": "cpp",
+    "EINSERTIONINARRAY.C": "cpp",
+    "INSERTIONINARRAY.C": "cpp",
+    "SMALLESTELEINARRAY.C": "cpp",
+    "TCOFLINEARSEARCH.C": "cpp",
+    "TCOFBINARYSEARCH.C": "cpp",
+    "TCOFBUBBLESORT.C": "cpp",
+    "STACK.C": "cpp",
+    "STACKOPERATIONS.C": "cpp",
+    "SIMPLEQUEOPERATIONS.C": "cpp",
+    "SIMPLEQUE.C": "cpp",
+    "DOUBLEENDEDQUEUE.C": "cpp",
+    "CIRCULARQUEUE.C": "cpp",
+    "SINGLYLINKEDLIST.C": "cpp",
+    "CIRCULARSINGLYLINKEDLIST.C": "cpp",
+    "CIRCULAR.C": "cpp",
+    "CIRCULARSINGLYLINKEDLIS.C": "cpp",
+    "DOUBLYCIRCULARLINKEDLIST.C": "cpp",
+    "SIMPLEQUEUE.C": "cpp",
+    "DELETETIONINARRAY.C": "cpp",
+    "MISSINGNUMBER.C": "cpp"
+  }
 }
