@@ -5,11 +5,11 @@ int main()
 {
     int a[10],n,i,sum=0,sum1=0,m;
     printf("enter the value of n\n");
-    scanf("%d\n",&n);
+    scanf("%d",&n);
     printf("enter the elements:\n");
     for(i=0;i<n;i++)
     {
-        scanf("%d\n",&a[i]);
+        scanf("%d",&a[i]);
     }
     for(i=0;i<n;i++)
     {
