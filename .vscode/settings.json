@@ -52,6 +52,8 @@
     "SIMPLEQUEUE.C": "cpp",
     "DELETETIONINARRAY.C": "cpp",
     "MISSINGNUMBER.C": "cpp",
-    "PATTERN01.C": "cpp"
+    "PATTERN01.C": "cpp",
+    "TOWEROFHANOI.C": "cpp",
+    "iostream": "cpp"
   }
 }
