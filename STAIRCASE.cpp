@@ -40,4 +40,8 @@ int main()
     obj.read();
     obj.compute();
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8052b58ed4a80c4811e1dfef7070601a8f90d03b
